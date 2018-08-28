@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Relpol_RM50
+D FINDER 32.21-x000, Single Pole Relay, 6A
+K Single Pole Relay
+F https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
+$ENDCMP
+#
 $CMP SRD-XXVDC-SL-C
 D FINDER 32.21-x000, Single Pole Relay, 6A
 K Single Pole Relay
