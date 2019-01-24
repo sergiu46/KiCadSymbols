@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MMBT2222ALT1G
+D 1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92
+K NPN Transistor
+F http://www.fairchildsemi.com/ds/PN/PN2222A.pdf
+$ENDCMP
+#
 $CMP Relpol_RM50
 D FINDER 32.21-x000, Single Pole Relay, 6A
 K Single Pole Relay
